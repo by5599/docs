@@ -175,7 +175,7 @@ ECONOMICS
 >    Will Wall Street reforms fix the US economic problem?
 >    Will Work For Free - 2013
 ENVIRONMENT
->    10 Things You Didn't Know About Earthquakes
+?>    10 Things You Didn't Know About Earthquakes
 >    24 Hours of Reality
 >    A Burning Question - Propaganda & the Denial of Climate Change
 >    A Farm For The Future - BBC
@@ -265,8 +265,8 @@ ENVIRONMENT
 >    Words from the Edge
 HEALTH
 >    The Autism Puzzel - BBC
->    10 things you need to know about sleep
->    A female orgasm
+?>    10 things you need to know about sleep
+?>    A female orgasm
 >    A History of the Madhouse
 >    A Summer In The Cage
 >    Absence of Silence - Tinnitus
@@ -287,13 +287,13 @@ HEALTH
 >    Bleach, Nip, Tuck: The White Beauty Myth
 >    Blood Makes Noise
 >    Burzynski, the Movie: Cancer Is Serious Business
->    Cancer: the Forbidden Cures
+?>    Cancer: the Forbidden Cures
 >    Cannabis: Britain's Secret Farms
 >    Child Frozen in Time
 >    Circumcise Me?
 >    Corporate InGREEDients (Trailer)
 >    Dead Wrong: How Psychiatric Drugs Can Kill Your Child
->    Diabetes: No longer the preserve of the rich?
+?>    Diabetes: No longer the preserve of the rich?
 >    Do I Drink Too Much?
 >    Doctors' Diaries
 >    Drugs and the Brain: Opiates and Tranquilizers
@@ -323,7 +323,7 @@ HEALTH
 >    How to be slim - BBC
 >    How to be Slim (BBC) Full Documentary 58 minutes
 >    How to Get Fat Without Really Trying
->    How To Sleep Better
+?>    How To Sleep Better
 >    How Violent Are You? BBC
 >    Hungry For Change
 >    I Woke Up Gay - A Stroke Turned Me Gay
@@ -438,12 +438,12 @@ HISTORY
 >    American Experience: The Panama Canal
 >    An Alfred Hitchcock documentary on the Nazi Holocaust
 ?>    An Inconvenient History - Brazil
->    An Islamic History of Europe
+?>    An Islamic History of Europe
 ?>    Ancient Kingdoms of Africa - Ethiopia
 ?>    Ancient Rome: The Rise and Fall of an Empire
->    Ancient Worlds: The Spartans
+?>    Ancient Worlds: The Spartans
 >    And they Came to Chicago: The Italian American Legacy
->    Andrew Carnegie: The Richest Man in the World
+?>    Andrew Carnegie: The Richest Man in the World
 >    Angkor Wat- Jewels in the Jungle
 >    Apocalypse: The Rise of Hitler
 >    Apocalypse: The Second World War
@@ -458,7 +458,7 @@ HISTORY
 ?>    BBC Egypt : Episode 6 : The Secrets of the Hieroglyphs
 ?>    Black Athena: The Fabrication of Ancient Greece
 ?>    Blood And Flowers In Search Of The Aztecs
->    Blood and Oil: The Middle East in World War I
+?>    Blood and Oil: The Middle East in World War I
 ?>    Blood of the Vikings BBC
 >    Bomber Boys - Lancaster - BBC
 >    Britains Most Fragile Treasure
@@ -478,9 +478,9 @@ HISTORY
 >    Clash of Worlds: Mutiny
 >    Columbus Lost Voyage
 >    Columbus’ Lost Voyage
->    Conquest of Hawaii
+?>    Conquest of Hawaii
 >    Conquistadors - Cortez, Pizarro, Orellana, Cabeza de Vaca
->    Crash Course: US History
+?>    Crash Course: US History
 >    Crime Inc. (BBC)
 >    Crucible of Empire: The Spanish-American War
 >    Crucible of Empire: The Spanish-American War
@@ -489,25 +489,25 @@ HISTORY
 >    Desperate Crossing: The Untold Story of the Mayflower
 >    Desperate Crossing: The Untold Story of the Mayflower
 >    Download: The True Story of the Internet
->    Egypt's Lost Cities BBC
+?>    Egypt's Lost Cities BBC
 >    Emma Goldman - An exceedingly dangerous woman
->    Engineering an Empire
+?>    Engineering an Empire
 >    Evidence of Revision
 >    Faith and Fate - Jews in the 20th Century
 >    Fidel
 >    Filthy Cities
->    Filthy Cities - Medieval London - BBC
+?>    Filthy Cities - Medieval London - BBC
 >    Fort Knox- Secrets Revealed
 >    Francesco's Mediterranean Voyage
 >    Frederick the Great and the Enigma of Prussia
 >    Gallipoli (2005)
->    Gandhi - Ben Kingsley - Full Movie 3 hours.
+?>    Gandhi - Ben Kingsley - Full Movie 3 hours.
 >    George Westinghouse: Gentle Genius
 >    Gestapo- Hitler's Secret Police
 >    GOBEKLI TEPE
->    Greece - Quest for the Gods
+?>    Greece - Quest for the Gods
 >    Guilty Pleasures: Luxury in Ancient Greece - BBC
->    Guns, Germs, & Steel - National Geographic
+?>    Guns, Germs, & Steel - National Geographic
 >    Hadrian's Wall - Timewatch - BBC
 >    Harlots, Housewives and Heroines: a 17th Century History for Girls
 >    Helen of Troy: Goddess, Princess, Whore
@@ -516,13 +516,13 @@ HISTORY
 >    Hillbilly: The Real Story
 >    HISTORY CHANNEL | Albert Einstein
 >    History Channel: The Egyptian Book Of The Dead
->    History of Magic
->    History of Tea
+?>    History of Magic
+?>    History of Tea
 >    History of the World in 7 minutes
 >    History of the World in Two Hours
 >    Hitler's Family: In the Shadow of the Dictator
 >    Hitler's War: What the Historians Neglect to Mention.
->    How Beer Saved the World
+?>    How Beer Saved the World
 >    How the States Got Their Shapes
 >    I, Claudius - (Playlist 11 episodes)
 >    Iceland's 1783 Killer Cloud
@@ -531,9 +531,9 @@ HISTORY
 >    In Search of a Lost Princess
 >    In search of the Trojan war - Empire of the Hittites
 >    Inside the medieval mind of Power - BBC
+?>    Iran: Seven Faces of a Civilization
 >    Iran: Seven Faces of a Civilization
->    Iran: Seven Faces of a Civilization
->    Islam: Empire of Faith - Full PBS
+?>    Islam: Empire of Faith - Full PBS
 >    James Bond 007: The Story
 >    KING TUT UNWRAPPED
 >    Kingdom of David: The Saga of the Israelites
@@ -543,16 +543,16 @@ HISTORY
 >    Leonardo Da Vinci
 >    Lewis & Clark: The Journey of the Corps of Discovery
 >    Living in the Past, Iron age reality
->    Lost Kingdoms of Africa: NUBIA
+?>    Lost Kingdoms of Africa: NUBIA
 >    Lost Worlds: Athens Ancient Supercity
 >    Louis Theroux on Michael Jackson
->    Machines of the Ancient China
+?>    Machines of the Ancient China
 >    Magical Egypt
 >    Magical Egypt - John Anthony West
 >    Mahatma: Life of Gandhi, 1869-1948
 >    Malcolm X : Prince of Islam
 >    MALCOLM X- PRINCE OF ISLAM
->    Marco Polo Journey to the East
+?>    Marco Polo Journey to the East
 >    Marie Antoinette: The Last Queen of France
 >    Matooke: The Crop that Built the Ugandan Nation
 >    Mexican - American War
@@ -565,7 +565,7 @@ HISTORY
 >    NAZI Underworld - Hitler's Women
 >    New York: A Documentary Film PBS
 >    Oh! What a Lovely War - Musical
->    Oil, 100 Years in the Middle East
+?>    Oil, 100 Years in the Middle East
 >    One Day in September - Munich Olympics massacre
 >    Operation Jericho
 >    Persepolis Recreated
@@ -585,10 +585,10 @@ HISTORY
 >    Secrets of The Tang Treasure Ship
 >    Secrets of the Treasure Ship
 >    Secrets of the Virgin Queen
->    Seven Ages of Britain : Age of Empire - 1770 - 1911
->    Seven Ages of Britain : Age of Money 1700 - 1805
->    Seven Ages of Britain : Age of Revolution - 1603 - 1708
->    Seven Ages of Britain : Age of Ambition - 1914 - Now
+?>    Seven Ages of Britain : Age of Empire - 1770 - 1911
+?>    Seven Ages of Britain : Age of Money 1700 - 1805
+?>    Seven Ages of Britain : Age of Revolution - 1603 - 1708
+?>    Seven Ages of Britain : Age of Ambition - 1914 - Now
 >    Sex and the Swastika
 >    Six Wives: The Queens of Henry VIII
 >    Sky Caves of Nepal
@@ -596,7 +596,7 @@ HISTORY
 >    Stalin and the Betrayal of Leningrad
 >    Stories from the Great Depression
 >    Stories from the Stone Age
->    Taj Mahal: Secrets and Mysteries
+?>    Taj Mahal: Secrets and Mysteries
 >    Taken for a Ride
 >    The Adventure of English
 >    The Ark of the Covenant
@@ -615,23 +615,23 @@ HISTORY
 >    The Frankincense Trail Oman: Yemen and Saudi Arabia
 >    The Frankincense Trail: Jordan and Israel
 >    The Frankincense Trail: Saudi Arabia
->    The French Revolution: Maximilien Robespierre
+?>    The French Revolution: Maximilien Robespierre
 >    The Gambinos: First Family of Crime
 >    The God of the Gaps
 >    The Great Dictator -125 minutes + Hynkel's Speech (Barber) 4:55
->    The Great Inca Rebellion
+?>    The Great Inca Rebellion
 >    The Great White Silence: 90 Degrees South
 >    The Greeks: Crucible of Civilization
 >    The Haunted History Of Halloween
 >    The Hidden Fuhrer: Debating the Enigma of Hitler's Sexuality
->    The History of Chocolate
+?>    The History of Chocolate
 >    The History of Rome Engineering the Roman Empire
 >    The History Of Soda Pop
 >    The House Of Rothschild - The Money's Prophets
 >    The Legendary Battle at Thermopylae: Last Stand of the 300
 >    The Life Of The Buddha
->    The Lost Civilisation of Peru: The Moche
->    The Lost King of the Maya
+?>    The Lost Civilisation of Peru: The Moche
+?>    The Lost King of the Maya
 >    The Lumiere Brothers' First Films ( From 1895 to 1897 )
 >    The Medici: Godfathers of the Renaissance
 >    The Men Who Built America - History Channel (2012)
@@ -655,7 +655,7 @@ HISTORY
 >    The Story of God: In Life, the Universe & Everything
 >    The Story of God: No God but God
 >    The Story of God: No God but God
->    The Story of India
+?>    The Story of India
 >    The Story of Thomas A. Edison
 >    The Trail of Genghis Khan
 >    The Trans-Siberian Railway
@@ -826,7 +826,7 @@ MYSTERY
 NATURE
 >    Islands Zanzibar - National Geographic
 >    A 200+ mile backpacking experience through Yosemite National Park
->    A Grain of Sand
+?>    A Grain of Sand
 >    A Guide to Keeping Hens In Your Garden
 >    A Man Among Wolves
 >    A Thousand Suns
@@ -835,55 +835,55 @@ NATURE
 >    And Man Created Dog
 >    And Man Created Dog
 >    Animal Planet's Infested Ants Spiders and Snakes
->    Ants: Nature’s Secret Power
+?>    Ants: Nature’s Secret Power
 >    Australia Land Before Time - IMAX
 >    Australia: Eye of the Storm: Monsoon
 >    Australia: Land Beyond Time - IMAX
->    BBC - The Human Body
+?>    BBC - The Human Body
 >    BBC Grizzlies of Alaska 2012
->    BBC How To Grow A Planet
->    BBC Super Smart Animals
+?>    BBC How To Grow A Planet
+!>    BBC Super Smart Animals
 >    Becoming Human Part
->    Birds of Paradise BBC
+?>    Birds of Paradise BBC
 >    Blackfish (2013)
 >    Born of Nuclear Blast: Russia’s Lakes of Mystery
 >    Chimps Are People Too
->    Dogs Decoded (1/3)
->    Dogs That Changed the World
->    Dolphins in the Deep Ocean
+?>    Dogs Decoded (1/3)
+?>    Dogs That Changed the World
+?>    Dolphins in the Deep Ocean
 >    Earth Story: The Big Freeze BBC
 >    Europe: A Natural History (Wild Europe) Ep1 Genesis
->    Evolution of Sex
+?>    Evolution of Sex
 >    Faustino's Patagonia Retreat: 40 Years of Isolation
 >    First Apocalypse History Channel
 >    Four Wings And A Prayer
 >    GANGES
 >    Grizzly Man
->    Hippo Dissection
->    How Smart Are Animals?
->    How Wolves Change Rivers
+?>    Hippo Dissection
+?>    How Smart Are Animals?
+?>    How Wolves Change Rivers
 >    Human Senses
->    IMAX - Wild Ocean
+?>    IMAX - Wild Ocean
 >    IMAX Wild Ocean (Trailer)
 >    IMAX: Search for the Great Sharks (Trailer)
 >    IMAX: The Alps
->    IMAX: The Greatest Places
+?>    IMAX: The Greatest Places
 >    INSECT WARS
 >    Japan by Bicycle
 >    Jewel Of The Earth
 >    Journey to the Sea of Cortez
 >    Living with Wolves
->    Lord of the Ants
->    Madagascar - Island of Marvels
+?>    Lord of the Ants
+?>    Madagascar - Island of Marvels
 >    March of the Penguins - Trailer
->    More Than Honey (2012)
+?>    More Than Honey (2012)
 >    Must Love Cats: Japan
 >    National Geographic Islands: Zanzibar
 >    National Geographic: Insect Wars
 >    Natural World: The Real Jungle Book Bear
 >    Nature's Weirdest Events
 >    NatureTech: Magic Of Motion
->    Nepal
+?>    Nepal
 >    Our Labor of Love (Out of Africa Wildlife Park)
 >    Panda Makers
 >    Panda Makers
@@ -907,10 +907,10 @@ NATURE
 >    The Greatest Places
 >    The Killing Fields: Pricing for an eco-friendly society
 >    The Lion Ranger
->    The Living Planet - BBC Nature
->    The Mariana Trench: Voyage to the Bottom of the Earth
->    The Polar Bear Family & Me
->    The Secret Life of the Dog
+?>    The Living Planet - BBC Nature
+?>    The Mariana Trench: Voyage to the Bottom of the Earth
+?>    The Polar Bear Family & Me
+?>    The Secret Life of the Dog
 >    The Superior Human?
 >    The White Diamond
 >    The Woman who thinks like a Cow - BBC
@@ -924,9 +924,9 @@ NATURE
 >    WILD CHINA: 6 Tides of Change [ Full 60 minutes ]
 >    WILD CHINA: 3 Tibet [ Full 60 minutes ]
 >    WILD CHINA: 4 Beyond the Great Wall [ Full 60 minutes ]
->    Wild Russia - Siberia (National Geographic)
+?>    Wild Russia - Siberia (National Geographic)
 >    Wild Thing: The Smithsonian National Zoo
->    World's Biggest and Baddest Bugs
+?>    World's Biggest and Baddest Bugs
 >    World's Biggest and Baddest Bugs
 >    Worlds Most Dangerous Roads ALASKA
 PERFORMING ARTS
@@ -1310,15 +1310,15 @@ POLITICS
 	
 RELIGION - PHILOSOPHY
 >    Spinoza: The Apostle of Reason
->    A HISTORY OF GOD
+?>    A HISTORY OF GOD
 >    Am I Normal? - Spirituality (BBC)
+?>    Amish A Secret Life
 >    Amish A Secret Life
->    Amish A Secret Life
->    Around the World in 80 Faiths
+?>    Around the World in 80 Faiths
 >    Banned From the Bible
 >    Banned From the Bible
 >    BBC Sex Death And The Gods
->    BBC The Story of Jesus 2011
+?>    BBC The Story of Jesus 2011
 >    Benin - Voodoo Children
 >    Beyond Me
 >    Beyond Thought (Awareness Itself)
@@ -1338,7 +1338,7 @@ RELIGION - PHILOSOPHY
 >    Faith School Menace?
 >    For the Bible Tells Me So - Homosexuality documentary
 >    History Channel Jesus The Lost 40 Days
->    History of Western Philosophy
+?>    History of Western Philosophy
 >    Hitler's Pope (by John Cornwell)
 >    I Escaped a Cult
 >    In God We Teach
@@ -1348,8 +1348,8 @@ RELIGION - PHILOSOPHY
 >    Is Genesis Scientifically Accurate?
 >    Is Religion A Force For Good In The World?
 >    Is The Bible Still Relevant Today?
->    Islam: Inside The Koran (Quran)
->    Jerusalem - The Making of a Holy City
+?>    Islam: Inside The Koran (Quran)
+?>    Jerusalem - The Making of a Holy City
 >    Jiddu Krishnamurti: In The Present Is The Whole Of Time
 >    Josef Zezulka: A Hidden Healer:
 >    Letters from the Dhamma Brothers: Meditation Behind Bars (Trailer)
@@ -1373,11 +1373,11 @@ RELIGION - PHILOSOPHY
 >    Opus Dei Unveiled
 >    Pagans: Sexy Beasts
 >    Papal Journey Through Time - Argentina
->    Philosophy: A Guide to Happiness
+?>    Philosophy: A Guide to Happiness
 >    Pope Benedict XVI - My Vatican
 >    Prisoners of a White God
 >    Religulous: Bill Maher
->    Rise of Christianity: The First 1000 Years - The Second 1000 Years
+?>    Rise of Christianity: The First 1000 Years - The Second 1000 Years
 >    Scared Sacred
 >    Scientific Verification of Vedic Knowledge
 >    Scientology and Me
@@ -1430,9 +1430,9 @@ SCIENCE
 >    Down The Rabbit Hole: What The Bleep Do We Know
 >    NOVA | Hunting the Elements
 >    Space Station
->    100 Greatest Discoveries - Physics
+?>    100 Greatest Discoveries - Physics
 >    A Machine to Die For - The Quest for Free Energy
->    A Sense of Scale: Absolute Zero
+?>    A Sense of Scale: Absolute Zero
 >    Adventures In Human Evolution
 >    After Life: The Science Of Decay
 >    Albert Einstein - How I See The World
@@ -1453,7 +1453,7 @@ SCIENCE
 >    Becoming Human
 >    Big Bigger Biggest Fastest Train Ever
 >    BioBricks - Building Blocks of Life
->    Blood and Guts: A History of Surgery
+?>    Blood and Guts: A History of Surgery
 >    Brain Story BBC
 >    Brainsex - Why we fall in love
 >    Break the Science Barrier w/Richard Dawkins
@@ -2363,7 +2363,7 @@ SOCIETY
 >    Why are so many Americans in prison?
 >    Why Beauty Matters
 >    Why I Hate The Sixties - BBC
->    Why The Industrial Revolution Happened Here - BBC
+?>    Why The Industrial Revolution Happened Here - BBC
 >    Why We Shouldn't Bike with a Helmet
 >    Wild Child: The Story of Feral Children
 >    Winning a War on Suicide in Japan: Saving 10,000
