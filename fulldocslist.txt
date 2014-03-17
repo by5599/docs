@@ -421,26 +421,26 @@ HEALTH
 >    Your Body on Drugs
 >    Yuck!
 HISTORY
->    America Before Columbus
+?>    America Before Columbus
 >    1421: The Year China Discovered America
 >    1421: The Year China Discovered America
 >    4 Little Girls
 >    42 Ways To Kill Hitler
->    A Crash Course in World History
->    A HISTORY OF BRITAIN - 15 episodes
+?>    A Crash Course in World History
+?>    A HISTORY OF BRITAIN - 15 episodes
 >    A Place Called Etruria
->    A Renaissance Education BBC
+?>    A Renaissance Education BBC
 >    A Trip Down Market Street
 >    A Trip Down Market Street 1906
 >    A WORLD OF ART: The Metropolitan Museum of Art
->    After Rome: Holy War And Conquest (BBC Episode 1 and 2)
+?>    After Rome: Holy War And Conquest (BBC Episode 1 and 2)
 >    America Before Columbus
 >    American Experience: The Panama Canal
 >    An Alfred Hitchcock documentary on the Nazi Holocaust
->    An Inconvenient History - Brazil
+?>    An Inconvenient History - Brazil
 >    An Islamic History of Europe
->    Ancient Kingdoms of Africa - Ethiopia
->    Ancient Rome: The Rise and Fall of an Empire
+?>    Ancient Kingdoms of Africa - Ethiopia
+?>    Ancient Rome: The Rise and Fall of an Empire
 >    Ancient Worlds: The Spartans
 >    And they Came to Chicago: The Italian American Legacy
 >    Andrew Carnegie: The Richest Man in the World
@@ -450,12 +450,12 @@ HISTORY
 >    Archimedes' Secret
 >    Arminius: Battle Against Rome
 >    Barbarians - The History Channel
->    BBC Egypt : Episode 1 : The Search for Tutankhamun
->    BBC Egypt : Episode 2 : The Curse of Tutankhamun
->    BBC Egypt : Episode 3 : The Pharaoh and the Showman
->    BBC Egypt : Episode 4 : The Temple of the Sands
->    BBC Egypt : Episode 5 : The Mystery of the Rosetta Stone
->    BBC Egypt : Episode 6 : The Secrets of the Hieroglyphs
+?>    BBC Egypt : Episode 1 : The Search for Tutankhamun
+?>    BBC Egypt : Episode 2 : The Curse of Tutankhamun
+?>    BBC Egypt : Episode 3 : The Pharaoh and the Showman
+?>    BBC Egypt : Episode 4 : The Temple of the Sands
+?>    BBC Egypt : Episode 5 : The Mystery of the Rosetta Stone
+?>    BBC Egypt : Episode 6 : The Secrets of the Hieroglyphs
 >    Black Athena: The Fabrication of Ancient Greece
 >    Blood And Flowers In Search Of The Aztecs
 >    Blood and Oil: The Middle East in World War I
@@ -683,7 +683,7 @@ HISTORY
 >    When the Moors (Muslims) Ruled Europe
 >    Woody Guthrie
 >    World War I in Colour
->    World War II in Colour
+?>    World War II in Colour
 >    Wright Brothers’ Flying Machine
 >    WW1: Top Gun Revealed
 MYSTERY
