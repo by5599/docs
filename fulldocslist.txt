@@ -187,7 +187,7 @@ ENVIRONMENT
 >    Around the World in 80 Gardens: America
 >    At the Edge of the World
 >    BACK TO EDEN
->    Blue Gold - World Water Wars
+?>    Blue Gold - World Water Wars
 >    Capital Gate Building: The Leaning Tower of Abu Dhabi
 >    Colombia's gold rush
 >    Confessions of an Eco Terrorist
@@ -305,7 +305,7 @@ HEALTH
 >    Fat Head
 >    Fix Me - Stem Cells
 >    Food Matters
->    FOOD, Inc.
+X>    FOOD, Inc.
 >    Fork Over Knives - Panel Discussion
 >    Fresh: New Thinking About What We're Eating (Trailer)
 >    FRONTLINE: Dollars And Dentists
@@ -363,7 +363,7 @@ HEALTH
 >    Search for a Safe Cigarette
 >    Seeds of Death
 >    Should I Smoke Dope?
->    Sicko (Full Documentary 2 hours, 3 minutes)
+X>    Sicko (Full Documentary 2 hours, 3 minutes)
 >    Sudden Death: Cot death (SIDS)
 >    Super High Me
 >    Super Size Me
@@ -392,7 +392,7 @@ HEALTH
 >    The Truth About Food
 >    The Truth About Food BBC
 >    The Truth About Vitamins
->    The Truth About Vitamins BBC
+?>    The Truth About Vitamins BBC
 >    The Weight of the Nation: Challenges (4 of 4)
 >    The Weight of the Nation: Children in Crisis (3 of 4)
 >    The Weight of the Nation: Choices (2 of 4)
@@ -842,7 +842,7 @@ NATURE
 ?>    BBC - The Human Body
 >    BBC Grizzlies of Alaska 2012
 ?>    BBC How To Grow A Planet
-!>    BBC Super Smart Animals
+X>    BBC Super Smart Animals
 >    Becoming Human Part
 ?>    Birds of Paradise BBC
 >    Blackfish (2013)
@@ -1099,7 +1099,7 @@ POLITICS
 >    Endgame: A Future Scenario for Israel
 >    EU report: Corruption widespread in the bloc
 >    Fear, Anger and Politics
->    Fight for Oil: 100 Years in the Middle East
+?>    Fight for Oil: 100 Years in the Middle East
 >    Fighting in the Fifth Dimension
 >    Fog of War - Eleven Lessons from the Life of Robert S McNamara
 >    For Liberty
@@ -1119,7 +1119,7 @@ POLITICS
 >    Greece on the Brink
 >    Guarding the Queen
 >    Hacking Democracy
->    Hearts and Minds
+?>    Hearts and Minds
 >    Hijacking Catastrophe: Fear & the Selling of American Empire
 >    How Facebook Changed the World: The Arab Spring
 >    How Leaks and Politics Threaten National Security: Dishonorable Disclosures
@@ -1399,7 +1399,7 @@ RELIGION - PHILOSOPHY
 >    The God Who Wasn't There
 >    The God Within
 >    The Hidden Faith of the Founding Fathers
->    The History Channel: Inside Islam
+X>    The History Channel: Inside Islam
 >    The History of the Devil
 >    The Jesus of Siberia
 >    The Life Of The Buddha - BBC
@@ -1485,7 +1485,7 @@ SCIENCE
 ?>    Earth: Making of a Planet
 >    Earth-Like Worlds
 >    Eat, Fast and Live Longer - BBC
->    FAMOUS SCIENTISTS & DISCOVERIES: Big 100: Biology
+?>    FAMOUS SCIENTISTS & DISCOVERIES: Big 100: Biology
 >    Faster Than the Speed of Light?
 >    First Life (David Attenborough) BBC
 >    First Orbit - the movie
@@ -1643,7 +1643,7 @@ SCIENCE
 ?>    The story of Electricity
 ?>    The Story of Maths
 >    The Stuff Of Light - BBC
->    The Truth About Personality
+?>    The Truth About Personality
 >    The Universe: Beyond The Big Bang
 >    THIS EMOTIONAL LIFE: Asperger Syndrome
 >    Time Machine - BBC
@@ -2121,7 +2121,7 @@ SOCIETY
 >    Sayonara Baby - Japan
 >    Sean
 >    Second Skin
->    Secrets of Body Language
+?>    Secrets of Body Language
 >    Secrets of the Scammers
 >    Secrets of the Superbrands
 >    Serving Life (2011)
@@ -2191,7 +2191,7 @@ SOCIETY
 >    The Collective Evolution III
 >    The Colour of Beauty
 >    The Confessions of Robert Crumb
->    The Corporation
+?>    The Corporation
 >    The Cove
 >    The Crash of the Century
 >    The Crash Reel: Kevin Pearce
